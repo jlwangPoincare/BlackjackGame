@@ -1,0 +1,18 @@
+Update logs
+
+V 1.01
+1. Rewrote some UI statements to support older version of Matlab.
+
+V 1.02
+1. Bugs coming from the last update were fixed.
+2. Can display how many cards the dealer has now.
+3. Bug happens when quitting the program fixed.
+
+V 1.03
+1. More UI bugs fixed to support older version of Matlab.
+2. When player bust, player choices are made invisible immediately.
+
+V 1.10
+1. Bet starts from 0. But betting 0 chips is not allowed.
+2. How many chips player/dealer gets is displayed.
+3. Version numbers re-edited.
